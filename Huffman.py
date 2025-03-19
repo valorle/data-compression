@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 09:21:59 2023
 
-@author: Ran XIN
+@author: valorle
 """
 import numpy as np 
 
